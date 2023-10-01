@@ -394,7 +394,7 @@ h3 {
   box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
   overflow: hidden;
 }
-.project-box > i {
+.project-box > img {
   font-size: 50px;
   color: #00b5e7;
   margin-bottom: 25px;
@@ -682,7 +682,9 @@ footer {
   justify-content: center;
   align-items: center;
   margin-top: 20px;
+  padding-top: 2rem;
 }
+
 .section-title-01 {
   font-size: 4.5em;
   font-weight: 800;
